@@ -10,14 +10,14 @@
 
 <div align="center">
   <h1>Hi there, I'm Adhyan Sinha 👋</h1>
-  <h3>An advancing frontend developer from India</h3>
+  <h3>An advancing programmer from India</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a passionate frontend developer with a keen interest in building user-friendly and efficient web applications. I am currently strengthening my foundational knowledge by learning C and C++. I am always eager to learn new technologies and collaborate on exciting projects.
+I am a passionate programmer with a keen interest in building user-friendly and efficient web applications. I am currently strengthening my foundational knowledge by learning C and C++. I am always eager to learn new technologies and collaborate on exciting projects.
 
 - 🌱 I’m currently learning **C, C++**
 - 👨‍💻 All of my projects are available at [https://github.com/techieA03](https://github.com/techieA03)
